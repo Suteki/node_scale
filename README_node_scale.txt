@@ -2,9 +2,6 @@ node . -> run index file
 npm i loadteat -g
 loadtest -n 300 http://localhost:3000
 
-https://www.youtube.com/results?search_query=raml
-https://www.youtube.com/watch?v=rWLJFkKkVHY
-
 npm i -g pm2
 
 pm2 start app.js -i 3
